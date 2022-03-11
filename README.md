@@ -23,7 +23,7 @@ There, the user can enter the name of the movie and then the trained model makes
 
 
 ## Libraries used
-1. To train the model: 
+1. To train the model: Multinomial Naive Bayes classifier
 2. To host the model : Anvil
 
 ## How to Run
